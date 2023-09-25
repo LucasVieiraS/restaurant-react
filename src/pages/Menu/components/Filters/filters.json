@@ -1,0 +1,18 @@
+[
+  {
+      "id": 1,
+      "label": "Dough"
+  },
+  {
+      "id": 2,
+      "label": "Meat"
+  },
+  {
+      "id": 3,
+      "label": "Combos"
+  },
+  {
+      "id": 4,
+      "label": "Vegan"
+  }
+]

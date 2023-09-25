@@ -17,7 +17,7 @@ export default function Searchbar({ search, setSearch }: SearchbarProps) {
         value={search}
         onChange={(event) => setSearch(event.target.value)}
       />
-      <CgSearch />
+      <CgSearch size={20} color='#4C4D5E'/>
     </div>
   );
 }
